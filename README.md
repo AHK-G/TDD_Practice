@@ -1,38 +1,38 @@
-TDD Practice Repository
+# TDD Practice Repository 
+
 This repository is dedicated to practicing Test-Driven Development (TDD) principles and techniques. It contains various coding exercises and projects where tests are written before implementation, ensuring robust, maintainable, and well-tested code.
 
-Overview
-Focus on writing tests first, then implementing the minimum code to pass tests
+## Overview
 
-Emphasis on clean, readable, and maintainable code following best practices
+- Focus on writing tests first, then implementing the minimum code to pass tests
 
-Practice includes unit tests, edge cases, and refactoring
+- Emphasis on clean, readable, and maintainable code following best practices
 
-Utilizes popular testing frameworks and tools (e.g., Jest, Mocha, etc.) depending on the language and project
+- Practice includes unit tests, edge cases, and refactoring
 
-Getting Started
-Clone the repository:
+- Utilizes popular testing frameworks and tools (e.g., Jest, Mocha, etc.) depending on the language and project
 
-bash
-Copy
-Edit
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
 git clone https://github.com/AHK-G/TDD_Practice.git
-cd tdd-practice
-Install dependencies:
+```
+2. Install dependencies:
 
-bash
-Copy
-Edit
+```bash
 npm install
-Run tests:
+```
+3. Run tests:
 
-bash
-Copy
-Edit
+```bash
 npm test
+```
+## Technologies
 
+- JavaScript / TypeScript
 
-Technologies
-JavaScript / TypeScript
+- Jest
 
-Jest (or replace with your testing framework)
